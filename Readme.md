@@ -67,5 +67,5 @@ This is the capstone project for fingerspelling recognition. The model is traine
 - Validation Recall: 0.8683
 - Validation F1 Score: 0.8699
 - Prediction:
-    ![image](https://hackmd.io/_uploads/BypYZvTMJg.png)
+ ![image](https://github.com/user-attachments/assets/f7ab0e4b-6b59-4105-b3ff-52ed2999f79a)
 - Character Error Rate (CER): 0.3045
